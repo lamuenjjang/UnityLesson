@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Kawaii Slime/Animated.unity
+- path: Assets/C#Scripts/Scenes/C# Script.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
