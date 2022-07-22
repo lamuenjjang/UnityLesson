@@ -356,6 +356,7 @@
 "Assets/EditorInterface/Kawaii Slime/Scripts/AI/EnemyAi.cs"
 "Assets/EditorInterface/Kawaii Slime/Scripts/AI/Face.cs"
 "Assets/EditorInterface/Kawaii Slime/Scripts/GameManager.cs"
+"Assets/Memory Structure/Scripts/Memory.cs"
 -langversion:9.0
 
 /deterministic
