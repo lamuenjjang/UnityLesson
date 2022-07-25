@@ -357,6 +357,8 @@
 "Assets/EditorInterface/Kawaii Slime/Scripts/AI/Face.cs"
 "Assets/EditorInterface/Kawaii Slime/Scripts/GameManager.cs"
 "Assets/Memory Structure/Scripts/Memory.cs"
+"Assets/PolyMorphism/Scripts/Animal.cs"
+"Assets/PolyMorphism/Scripts/ParticleManager.cs"
 -langversion:9.0
 
 /deterministic
