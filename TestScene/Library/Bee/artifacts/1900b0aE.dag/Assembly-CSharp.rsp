@@ -350,6 +350,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/C#Scripts/Scripts/Control.cs"
+"Assets/Collison/Scripts/ChracterController.cs"
+"Assets/Collison/Scripts/Sensor.cs"
 "Assets/EditorInterface/Kawaii Slime/Cameras/Scripts/AbstractTargetFollower.cs"
 "Assets/EditorInterface/Kawaii Slime/Cameras/Scripts/FreeLookCam.cs"
 "Assets/EditorInterface/Kawaii Slime/Cameras/Scripts/PivotBasedCameraRig.cs"

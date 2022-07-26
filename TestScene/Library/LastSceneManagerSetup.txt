@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/PolyMorphism/Scene/PolyMorphism.unity
+- path: Assets/Collison/Scene/Collision.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
