@@ -363,6 +363,8 @@
 "Assets/Memory Structure/Scripts/Memory.cs"
 "Assets/PolyMorphism/Scripts/Animal.cs"
 "Assets/PolyMorphism/Scripts/ParticleManager.cs"
+"Assets/Time Delay/Scripts/Switching.cs"
+"Assets/Time Delay/Scripts/Various.cs"
 -langversion:9.0
 
 /deterministic
